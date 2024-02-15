@@ -2,4 +2,10 @@ first testing with terminal
 
 It is my first git commit
 
+Can see the git commits on GitHub Desktop
+
 I am interested in seeing the changes in the test-repo-2024
+
+Add another line here to test
+
+Add a new line here to see the change
